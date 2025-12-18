@@ -1,4 +1,4 @@
-# Python — Notes & Examples
+# Python — Notes
 
 **Student-maintained collection of notes, examples and exercises for learning Python.** This folder is a work in progress; content is intended for study and sharing, not professional or certified use.
 
@@ -29,7 +29,11 @@
 
 This folder collects organized notes, examples and quick references to help you learn Python step-by-step. Sections include short explanations, runnable examples (scripts or notebooks), and small quizzes to test understanding.
 
-> ⚠️ **Note:** This is a student project — materials may be incomplete or contain errors. Use them as study aids, not formal or commercial resources.
+> ⚠️ **Note:** 
+>
+>This is a student project — materials may be incomplete or contain errors. Use them as study aids, not formal or commercial resources.
+>
+> The syllabus is from GeekforGeeks Python course.
 
 ---
 
