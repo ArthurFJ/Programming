@@ -165,6 +165,7 @@ Each section contains short quizzes or exercises. Use these to check comprehensi
 
 ## Resources & Further Reading
 - Official Python docs: https://docs.python.org/3/
+- Content source: GeekforGeeks Python Course - https://www.geeksforgeeks.org/python/python-programming-language-tutorial/
 - Data Science: https://pandas.pydata.org/ and https://numpy.org/
 - Web frameworks: Flask (https://palletsprojects.com/p/flask/) and Django (https://www.djangoproject.com/)
 
