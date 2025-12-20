@@ -37,6 +37,25 @@ This folder collects organized notes, examples and quick references to help you 
 
 ---
 
+### Quick tutorials: install Python, VS Code, or use Google Colab
+
+- Use Google Colab (no-install, interactive notebooks):
+  1. Go to https://colab.research.google.com/ and sign in with a Google account.
+  2. Click **New notebook** or drag-and-drop `.ipynb` files to open them.
+  3. Run cells with Shift+Enter.
+  4. Save to Drive (`File > Save a copy in Drive`) or download as `.ipynb` / `.py`.
+
+- Install Python (Windows):
+  1. Download the installer from https://www.python.org/downloads/ (choose the latest stable 3.x).
+  2. Run the installer and check **Add Python to PATH** before clicking **Install Now**.
+  3. Verify in PowerShell or Terminal: `python --version` and `pip --version`.
+
+- Install Visual Studio Code:
+  1. Download and install from https://code.visualstudio.com/.
+  2. Open and install the **Python** extension (ms-python.python) and **Jupyter** extension from the Extensions view (a little square of squares icon).
+  3. Open this folder with `File > Open Folder`.
+  4. Open `.ipynb` files directly to run notebook cells interactively.
+
 ## How to use these notes
 
 - Open `.ipynb` files with Jupyter or VS Code's Notebook support to run examples interactively.
@@ -51,8 +70,8 @@ This folder collects organized notes, examples and quick references to help you 
 ### Basics
 Short introduction to Python setup and core syntax; ideal first section for beginners.
 
-- Introduction
-- Applications
+- Introduction to the programming world
+- Applications and the Python ecosystem
 - Input & Output
 - Variables
 - Operators
@@ -126,12 +145,6 @@ Working with files and filesystem helpers.
 - Directory management
 - Quiz: File Handling
 
-### Database Handling
-Intro to connecting Python with databases.
-
-- MongoDB (PyMongo)
-- MySQL (mysql-connector, pymysql)
-
 ### Packages & Libraries
 Overview of package types and common libraries used in projects.
 
@@ -139,6 +152,13 @@ Overview of package types and common libraries used in projects.
 - Third-party packages
 - DSA libraries
 - GUI libraries
+
+### Database Handling
+Intro to connecting Python with databases.
+
+- MongoDB (PyMongo)
+- MySQL (mysql-connector, pymysql)
+- SQLite (sqlite3)
 
 ### Data Science
 Progression for learning data science with Python.
